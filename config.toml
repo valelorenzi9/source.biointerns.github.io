@@ -1,19 +1,22 @@
 baseurl = "http://example.org/"
 languageCode = "en-us"
-title = "Hugo Cards"
+title = "BioInterns"
 theme = "cards"
-#themesDir = "../.."
+
+# quanti vuoi vederne per ogni pagina
+# 6 vuol dire tipo 2 righe, con 3 cards per riga
 paginate = 6
 
 [params]
-  builtBy = "bool"
+  builtBy = "Valentina Lorenzi"
   defaultImage = "gopher.jpg"
 
-  facebook = ""
-  quora = ""
-  twitter = "http://twitter.com/bul_ikana"
-  github = "http://github.com/bul-ikana"
-  email = ""
+  #DISABILITATI
+  #facebook = ""
+  #quora = ""
+  #twitter = "http://twitter.com/bul_ikana"
+  #github = "http://github.com/bul-ikana"
+  #email = ""
 
   fbLikeBox = ""
   fbAppId = ""
@@ -24,6 +27,6 @@ paginate = 6
   disqus = ""
 
   [params.copyright]
-     name = "bool"
-     link = "https://bool.netlify.com"
+     name = "Valentina Lorenzi"
+     link = "https://github.com/valelorenzi9"
 

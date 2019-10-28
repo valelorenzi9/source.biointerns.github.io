@@ -1,7 +1,7 @@
 ---
 layout: page
-title: fastq
-permalink: /contact/
+title: FAQs
+permalink: /faqs/
 ---
 
 Visit [my site](https://bool.netlify.com)

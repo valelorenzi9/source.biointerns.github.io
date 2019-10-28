@@ -1,8 +1,11 @@
 ---
 layout: page
-title: FAQs
-permalink: /faqs/
+title: About
+permalink: /about/
 ---
+
+Puoi cancellare tutta sta roba
+
 
 Hugo cards is a Bootstrap based theme ported from the Jekyll theme [Webjeda-cards](https://webjeda.com/cards/). Any Bootstrap element can be used in the theme.
 
