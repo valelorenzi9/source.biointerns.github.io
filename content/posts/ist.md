@@ -12,4 +12,4 @@ date: 2019-10-28
 
 **Scadenza per application**: febbraio 2020 
 
-**Link al programma**: [istenrship](https://phd.pages.ist.ac.at/isternship/)
+**Link al programma**: [ISTernship](https://phd.pages.ist.ac.at/isternship/)
