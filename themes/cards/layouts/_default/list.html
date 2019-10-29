@@ -18,11 +18,11 @@
                   {{ end }}
                   
                   <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ .Title | truncate 25 }}</h3><span class="post-meta pull-right"><small>{{ .Date.Format "January 2, 2006" }}</small></span>
+                    <h3 class="panel-title pull-left">{{ .Title | truncate 35 }}</h3><span class="post-meta pull-right"><small>{{ .Date.Format "January 2, 2006" }}</small></span>
                   </div>
                   
                   <div class="panel-body"><small>
-                    {{ .Summary | plainify | truncate 180 }}</small>
+                    {{ .Summary | plainify | truncate 100 }}</small>
                   </div>
                 </div>
                 </a>
