@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars Institut Pasteur
-img: pasteur.png
+img: pasteur.png, amgen.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---
@@ -16,4 +16,4 @@ date: 2019-10-28
 
 **Link al programma**: [Amgen Paris](https://www.pasteur.fr/en/education/programs-and-courses/internships-and-pre-doctoral-programs/amgen-scholars-program)
 
-amgen.png
+
