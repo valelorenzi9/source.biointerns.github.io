@@ -6,7 +6,9 @@ tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---
 
-**INTERNSHIP ALLO INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA (Vienna, Austria)** 
+**INTERNSHIP ALLO INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA** 
+
+**Dove**: Vienna, Austria
 
 **Date**: da 8 a 12 settimane tra il 15 maggio e il 15 settembre 2020 
 

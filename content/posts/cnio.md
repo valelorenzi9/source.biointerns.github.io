@@ -1,13 +1,18 @@
 ---
 layout: post
-title: CRG Summer Internship Programme
-img: CRG.jpg
+title: CNIO Summer Training Program
+img: cnio.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---
 
-**INTERNSHIP AL CENTRE FOR GENOMIC REGULATION (Barcellona, Spagna)**
+**INTERNSHIP ALLO SPANISH NATIONAL CANCER RESEARCH CENTRE**
+
+**Dove**: Madrid, Spagna
+
 **Date**: 
+
 **Scadenza per application**: 
-**Link al programma**: [CRG Summer Internship](https://www.crg.eu/en/content/training-undergraduates/crg-summer-internship-programme)
+
+**Link al programma**: [CNIO Summer Training](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
 
