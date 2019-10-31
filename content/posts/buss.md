@@ -1,7 +1,7 @@
 ---
 layout: post
 title: International Biology Undergraduate Summer School Zurich
-img: Universitaetzuerich.png
+img: UZH-logo.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---
