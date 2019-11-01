@@ -10,7 +10,7 @@ date: 2019-10-28
 
 **Dove**: Losanna, Svizzera
 
-**Date**:
+**Date**: non ancora disponibili 
 
 **Scadenza per application**: 31 gennaio 2020
 

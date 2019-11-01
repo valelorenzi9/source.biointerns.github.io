@@ -10,9 +10,9 @@ date: 2019-10-28
 
 **Dove**: Barcellona, Spagna
 
-**Date**: 
+**Date**: non ancora disponibili
 
-**Scadenza per application**: 
+**Scadenza per application**: non ancora disponibile 
 
 **Link al programma**: [CRG Summer Internship](https://www.crg.eu/en/content/training-undergraduates/crg-summer-internship-programme)
 

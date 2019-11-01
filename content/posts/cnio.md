@@ -6,13 +6,13 @@ tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---
 
-**INTERNSHIP ALLO SPANISH NATIONAL CANCER RESEARCH CENTRE**
+**INTERNSHIP ALLO SPANISH NATIONAL CANCER RESEARCH**
 
 **Dove**: Madrid, Spagna
 
-**Date**: 
+**Date**: non ancora disponibili
 
-**Scadenza per application**: 
+**Scadenza per application**: non ancora disponibile 
 
 **Link al programma**: [CNIO Summer Training](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
 
