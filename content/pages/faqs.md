@@ -6,7 +6,7 @@ date: 2019-10-28T18:10:48+01:00
 draft: false
 ---
 
-Se è la prima volta che ti avvicini al mondo dei tirocini all'estero, è più che normale che tu abbia tantissimi dubbi e domande riguardo al loro funzionamento. La lista che trovi qui sotto prova a rispondere ai dubbi principali, ma se hai ancora interrogativi scrivimi una mail (la trovi sotto la sezione [Contatti]()). Se ho la risposta la aggiungerò a questa lista affinché possa essere utile anche agli altri. 
+Se è la prima volta che ti avvicini al mondo dei tirocini all'estero, è più che normale che tu abbia tantissimi dubbi e domande riguardo al loro funzionamento. La lista che trovi qui sotto prova a rispondere ai dubbi principali, ma se hai ancora interrogativi scrivimi una mail (la trovi sotto la sezione [Contatti](/pages/contact/)). Se ho la risposta la aggiungerò a questa lista affinché possa essere utile anche agli altri. 
 
 
 Prima di tutto pensiamo alla questione che sta a cuore a tutti gli studenti: le scarse finanze.
