@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Janelia Undergraduate Scholars Program
-img: janelia.png
+img: janelia200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

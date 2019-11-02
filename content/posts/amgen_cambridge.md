@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars University of Cambridge
-img: cambridge.png
+img: cambridge200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

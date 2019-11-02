@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EPFL Summer Research Program
-img: epfl2.png
+img: epfl.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

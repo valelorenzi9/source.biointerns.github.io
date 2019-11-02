@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stowers Summer Scholars
-img: stowers.png
+img: stowers200.jpg
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

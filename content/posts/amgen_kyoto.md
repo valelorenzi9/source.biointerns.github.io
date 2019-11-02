@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars Kyoto University
-img: kyoto.png
+img: kyoto200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars University of Tokyo 
-img: tokyo.png
+img: tokyo200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

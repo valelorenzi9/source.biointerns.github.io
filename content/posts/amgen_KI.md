@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars Karolinska Institutet
-img: karo.jpeg
+img: karol_logo.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

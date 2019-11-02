@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars ETH Zurich
-img: eth.jpg
+img: eth_logo.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

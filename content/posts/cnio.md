@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CNIO Summer Training Program
-img: cnio.png
+img: cnio200.jpg
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

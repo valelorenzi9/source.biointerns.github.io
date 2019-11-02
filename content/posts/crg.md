@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CRG Summer Internship Programme
-img: CRG.jpg
+img: crg200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

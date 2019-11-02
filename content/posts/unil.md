@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unil Summer Undergraduate Research Programme
-img: unil.png
+img: unil200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

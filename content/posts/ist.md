@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ISTernship Summer Program
-img: IST_Austria_Logo.jpg
+img: ist_logo200.jpg
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

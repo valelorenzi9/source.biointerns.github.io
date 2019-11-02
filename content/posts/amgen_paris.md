@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars Institut Pasteur
-img: pasteur.png
+img: pasteur200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---

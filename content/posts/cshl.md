@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cold Spring Harbor Laboratory Undergraduate Research Program
-img: cshl.png
+img: cshl200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-10-28
 ---
