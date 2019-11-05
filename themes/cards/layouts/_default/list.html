@@ -18,11 +18,12 @@
                   {{ end }}
                   
                   <div class="panel-body">
-                    <h3 class="panel-title">{{ .Title | truncate 30 }}</h3><span class="panel-meta pull-right"><small>{{ .Date.Format "January 2, 2006" }}</small></span>
+                    <h3 class="panel-title" style="height: 45px;">{{ .Title }}</h3><span class="panel-meta pull-right"><small>{{ .Date.Format "January 2, 2006" }}</small></span>
                   </div>
                   
-                  <div class="panel-body"><small>
-                    {{ .Summary | truncate 100 }}</small>
+                  <div class="panel-body">
+                    <!-- <small>{{ .Summary | truncate 100 }}</small> -->
+                    <!-- <small>{{ .Params.description | truncate 100 }}</small> -->
                   </div>
                 </div>
                 </a>
