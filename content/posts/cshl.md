@@ -14,5 +14,7 @@ date: 2019-10-28
 
 **Scadenza per application**: 15 gennaio 2020
 
+**Stipendio**: vitto e alloggio forniti e a carico del programma +  5500 dollari per le spese personali
+
 **Link al programma**: [Cold Spring Harbor Laboratory](https://www.cshl.edu/education/undergraduate-research-program/)
 

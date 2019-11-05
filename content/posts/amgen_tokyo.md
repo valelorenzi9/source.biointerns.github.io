@@ -14,4 +14,6 @@ date: 2019-10-28
 
 **Scadenza per application**: 3 febbraio 2020
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 250,000 yen per le spese personali
+
 **Link al programma**: [Amgen Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)

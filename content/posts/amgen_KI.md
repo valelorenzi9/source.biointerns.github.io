@@ -14,6 +14,8 @@ date: 2019-10-28
 
 **Scadenza per application**: 3 febbraio 2020
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 10,000 SEK per le spese personali
+
 **Link al programma**: [Amgen Karolinska](https://education.ki.se/amgen-scholars-program-at-karolinska-institutet)
 
 

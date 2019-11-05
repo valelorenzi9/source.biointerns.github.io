@@ -14,5 +14,7 @@ date: 2019-10-28
 
 **Scadenza per application**: 1 marzo 2020
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte 
+
 **Link al programma**: [BUSS](https://www.biologie.uzh.ch/de/Studium/UndergraduateSummerSchool.html) 
 

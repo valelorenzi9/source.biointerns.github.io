@@ -14,6 +14,8 @@ date: 2019-10-28
 
 **Scadenza per application**: 3 febbraio 2020
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 1280 sterline per le spese personali
+
 **Link al programma**: [Amgen Cambridge](https://amgenscholars.bio.cam.ac.uk)
 
 

@@ -14,4 +14,6 @@ date: 2019-10-28
 
 **Scadenza per application**: 3 febbraio 2020
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 1400 euro per le spese personali
+
 **Link al programma**: [Amgen Paris](https://www.pasteur.fr/en/education/programs-and-courses/internships-and-pre-doctoral-programs/amgen-scholars-program)

@@ -14,4 +14,6 @@ date: 2019-10-28
 
 **Scadenza per application**: 3 febbraio 2020
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 180,000 yen per le spese personali
+
 **Link al programma**: [Amgen Kyoto](http://www.opir.kyoto-u.ac.jp/study/en/curriculum/amgenscholars/)

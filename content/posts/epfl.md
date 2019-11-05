@@ -14,5 +14,7 @@ date: 2019-10-28
 
 **Scadenza per application**: 31 gennaio 2020
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 1500 franchi per le spese personali
+
 **Link al programma**: [EPFL Summer Research Program](https://www.epfl.ch/schools/sv/education/summer-research-program/)
 

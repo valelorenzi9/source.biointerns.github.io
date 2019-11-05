@@ -14,5 +14,7 @@ date: 2019-10-28
 
 **Scadenza per application**: non ancora disponibile  
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte 
+
 **Link al programma**: [RIKEN](https://cbs.riken.jp/en/summer/)
 

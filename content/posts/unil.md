@@ -14,5 +14,7 @@ date: 2019-10-28
 
 **Scadenza per application**: 23 gennaio 2020
 
+**Stipendio**: alloggio coperto + spese di viaggio coperte + 1500 franchi per le spese personali 
+
 **Link al programma**: [Unil Summer Undergraduate Programme](https://www.unil.ch/eb-sur/en/home.html)
 

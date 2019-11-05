@@ -14,4 +14,6 @@ date: 2019-10-28
 
 **Scadenza per application**: febbraio 2020 
 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + stipendio per spese personali (non specifica nel sito quanto)
+
 **Link al programma**: [ISTernship](https://phd.pages.ist.ac.at/isternship/)
