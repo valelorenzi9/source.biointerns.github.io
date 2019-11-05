@@ -14,7 +14,7 @@ date: 2019-10-28
 
 **Scadenza per application**: 3 febbraio 2020 
 
-**Stipendio**: alloggio coperto + spese di viaggio coperte + 4000 dollari per le spese personali 
+**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 4000 dollari per le spese personali 
 
 **Link al programma**: [Stowers](https://www.stowers.org/gradschool/scholars)
 
