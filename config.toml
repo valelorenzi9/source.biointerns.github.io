@@ -26,6 +26,8 @@ paginate = 6
   analytics = ""
   disqus = ""
 
+  description = "Ciao Vale sei bella"
+
   [params.copyright]
      name = "Valentina Lorenzi"
      link = "https://github.com/valelorenzi9"
