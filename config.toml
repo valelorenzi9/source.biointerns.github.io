@@ -26,7 +26,7 @@ paginate = 6
   analytics = ""
   disqus = ""
 
-  description = "Benvenuto su BioInterns! Sei uno studente di triennale o magistrale di Biologia/Biotecnologie o affini? Scorri tra le pagine per conoscere opportunità di tirocinio all'estero pagate nei migliori atenei del mondo."
+  description = "Benvenuto su BioInterns! Sei uno studente di triennale o magistrale di Biologia/Biotecnologie o affini? Studi Fisica/Matematica/Informatica ma hai il pallino per la Biologia? Scorri tra le pagine per conoscere opportunità di tirocinio all'estero pagate nei migliori atenei del mondo."
 
   [params.copyright]
      name = "Valentina Lorenzi"
