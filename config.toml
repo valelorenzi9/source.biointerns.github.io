@@ -5,7 +5,7 @@ theme = "cards"
 
 # quanti vuoi vederne per ogni pagina
 # 6 vuol dire tipo 2 righe, con 3 cards per riga
-paginate = 6
+paginate = 48
 
 [params]
   builtBy = "Valentina Lorenzi"
