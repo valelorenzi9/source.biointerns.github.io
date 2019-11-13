@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on BioInterns</title>
+    <link>http://www.biointerns.github.io/pages/</link>
+    <description>Recent content in Pages on BioInterns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2019 18:10:48 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.biointerns.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FAQs</title>
+      <link>http://www.biointerns.github.io/pages/faqs/</link>
+      <pubDate>Mon, 28 Oct 2019 18:10:48 +0100</pubDate>
+      
+      <guid>http://www.biointerns.github.io/pages/faqs/</guid>
+      <description>Se è la prima volta che ti avvicini al mondo dei tirocini all&amp;rsquo;estero, è più che normale che tu abbia tantissimi dubbi e domande riguardo al loro funzionamento. La lista che trovi qui sotto prova a rispondere ai dubbi principali, ma se hai ancora interrogativi scrivimi una mail (la trovi sotto la sezione Contatti). Se ho la risposta la aggiungerò a questa lista affinché possa essere utile anche agli altri.</description>
+    </item>
+    
+    <item>
+      <title>Contatti</title>
+      <link>http://www.biointerns.github.io/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.biointerns.github.io/pages/contact/</guid>
+      <description>Conosci altre opportunità di tirocini pagati all&amp;rsquo;estero che potrei includere in questo sito?
+Hai una domanda riguardo il funzionamento dei tirocini proposti su questo sito?
+Vuoi darmi dei consigli per migliorare il sito?
+Compila questo form e farò di tutto per risponderti al più presto! Domande/Consigli</description>
+    </item>
+    
+    <item>
+      <title>Progetto BioInterns</title>
+      <link>http://www.biointerns.github.io/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.biointerns.github.io/pages/about/</guid>
+      <description>Ciao! Ecco una breve introduzione al progetto BioInterns.
+Perché BioInterns?
+ Scopo: Consentire agli studenti universitari italiani di Biologia/Biotecnologie (ma non solo!) di conoscere le opportunità per fare ricerca durante il periodo estivo in prestigiose università in tutto il mondo. Tutte le opportunità proposte su BioInterns sono pagate.
+ Com&amp;rsquo;è nato: Molti studenti di Biologia/Biotecnologie non vedono l&amp;rsquo;ora di provare a fare ricerca con le loro mani. Tuttavia, i corsi di studi normalmente prevedono soltanto dei laboratori didattici sovraffollati in cui è difficile capire realmente cosa significhi fare il ricercatore.</description>
+    </item>
+    
+  </channel>
+</rss>
