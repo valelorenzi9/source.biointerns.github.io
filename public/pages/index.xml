@@ -2,30 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on BioInterns</title>
+<<<<<<< HEAD
     <link>http://www.biointerns.github.io/pages/</link>
+=======
+    <link>https://biointerns.github.io/pages/</link>
+>>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <description>Recent content in Pages on BioInterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Oct 2019 18:10:48 +0100</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="http://www.biointerns.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="https://biointerns.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     
     
     <item>
       <title>FAQs</title>
+<<<<<<< HEAD
       <link>http://www.biointerns.github.io/pages/faqs/</link>
       <pubDate>Mon, 28 Oct 2019 18:10:48 +0100</pubDate>
       
       <guid>http://www.biointerns.github.io/pages/faqs/</guid>
+=======
+      <link>https://biointerns.github.io/pages/faqs/</link>
+      <pubDate>Mon, 28 Oct 2019 18:10:48 +0100</pubDate>
+      
+      <guid>https://biointerns.github.io/pages/faqs/</guid>
+>>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
       <description>Se è la prima volta che ti avvicini al mondo dei tirocini all&amp;rsquo;estero, è più che normale che tu abbia tantissimi dubbi e domande riguardo al loro funzionamento. La lista che trovi qui sotto prova a rispondere ai dubbi principali, ma se hai ancora interrogativi scrivimi una mail (la trovi sotto la sezione Contatti). Se ho la risposta la aggiungerò a questa lista affinché possa essere utile anche agli altri.</description>
     </item>
     
     <item>
       <title>Contatti</title>
+<<<<<<< HEAD
       <link>http://www.biointerns.github.io/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.biointerns.github.io/pages/contact/</guid>
+=======
+      <link>https://biointerns.github.io/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/pages/contact/</guid>
+>>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
       <description>Conosci altre opportunità di tirocini pagati all&amp;rsquo;estero che potrei includere in questo sito?
 Hai una domanda riguardo il funzionamento dei tirocini proposti su questo sito?
 Vuoi darmi dei consigli per migliorare il sito?
@@ -34,10 +56,17 @@ Compila questo form e farò di tutto per risponderti al più presto! Domande/Con
     
     <item>
       <title>Progetto BioInterns</title>
+<<<<<<< HEAD
       <link>http://www.biointerns.github.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.biointerns.github.io/pages/about/</guid>
+=======
+      <link>https://biointerns.github.io/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/pages/about/</guid>
+>>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
       <description>Ciao! Ecco una breve introduzione al progetto BioInterns.
 Perché BioInterns?
  Scopo: Consentire agli studenti universitari italiani di Biologia/Biotecnologie (ma non solo!) di conoscere le opportunità per fare ricerca durante il periodo estivo in prestigiose università in tutto il mondo. Tutte le opportunità proposte su BioInterns sono pagate.

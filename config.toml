@@ -1,11 +1,11 @@
-baseurl = "http://www.biointerns.github.io/"
+baseurl = "https://biointerns.github.io/"
 languageCode = "en-us"
 title = "BioInterns"
 theme = "cards"
 
 # quanti vuoi vederne per ogni pagina
 # 6 vuol dire tipo 2 righe, con 3 cards per riga
-paginate = 6
+paginate = 48
 
 [params]
   builtBy = "Valentina Lorenzi"
@@ -26,7 +26,7 @@ paginate = 6
   analytics = ""
   disqus = ""
 
-  description = "Benvenuto su BioInterns! Sei uno studente di triennale o magistrale di Biologia/Biotecnologie o affini? Studi Fisica/Matematica/Informatica ma hai il pallino per la Biologia? Scorri tra le pagine per conoscere opportunità di tirocini pagati all'estero nei migliori atenei del mondo."
+  description = "Benvenuto su BioInterns! Sei uno studente di triennale o magistrale di Biologia/Biotecnologie/Bioinformatica o affini? Studi Fisica/Matematica/Informatica ma hai il pallino per la Biologia? Scorri tra le pagine per conoscere opportunità di tirocini pagati all'estero nei migliori atenei del mondo."
 
   [params.copyright]
      name = "Valentina Lorenzi"
