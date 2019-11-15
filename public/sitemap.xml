@@ -3,224 +3,131 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/</loc>
-=======
     <loc>https://biointerns.github.io/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T18:10:48+01:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/pages/faqs/</loc>
-=======
     <loc>https://biointerns.github.io/pages/faqs/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T18:10:48+01:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/pages/</loc>
-=======
     <loc>https://biointerns.github.io/pages/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T18:10:48+01:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/amgen_eth/</loc>
-=======
     <loc>https://biointerns.github.io/posts/amgen_eth/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/amgen_paris/</loc>
-=======
     <loc>https://biointerns.github.io/posts/amgen_paris/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/amgen_ki/</loc>
-=======
     <loc>https://biointerns.github.io/posts/amgen_ki/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/amgen_kyoto/</loc>
-=======
     <loc>https://biointerns.github.io/posts/amgen_kyoto/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/amgen_cambridge/</loc>
-=======
     <loc>https://biointerns.github.io/posts/amgen_cambridge/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/amgen_tokyo/</loc>
-=======
     <loc>https://biointerns.github.io/posts/amgen_tokyo/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/cnio/</loc>
-=======
     <loc>https://biointerns.github.io/posts/cnio/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/cshl/</loc>
-=======
     <loc>https://biointerns.github.io/posts/cshl/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/crg/</loc>
-=======
     <loc>https://biointerns.github.io/posts/crg/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/epfl/</loc>
-=======
     <loc>https://biointerns.github.io/posts/epfl/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/riken/</loc>
-=======
     <loc>https://biointerns.github.io/posts/riken/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/buss/</loc>
-=======
     <loc>https://biointerns.github.io/posts/buss/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/ist/</loc>
-=======
+    <loc>https://biointerns.github.io/posts/iss_mainz/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biointerns.github.io/posts/ist/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/janelia/</loc>
-=======
     <loc>https://biointerns.github.io/posts/janelia/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/</loc>
-=======
     <loc>https://biointerns.github.io/posts/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/stowers/</loc>
-=======
     <loc>https://biointerns.github.io/posts/stowers/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/tags/tag_a/</loc>
-=======
     <loc>https://biointerns.github.io/tags/tag_a/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/tags/tag_b/</loc>
-=======
     <loc>https://biointerns.github.io/tags/tag_b/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/tags/</loc>
-=======
     <loc>https://biointerns.github.io/tags/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/posts/unil/</loc>
-=======
     <loc>https://biointerns.github.io/posts/unil/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://www.biointerns.github.io/categories/</loc>
+    <loc>https://biointerns.github.io/posts/vienna/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.biointerns.github.io/pages/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.biointerns.github.io/pages/about/</loc>
-=======
     <loc>https://biointerns.github.io/categories/</loc>
   </url>
   
@@ -230,7 +137,6 @@
   
   <url>
     <loc>https://biointerns.github.io/pages/about/</loc>
->>>>>>> 774b301a3d05607e27ffa5e1a3fd88733df92fbb
   </url>
   
 </urlset>

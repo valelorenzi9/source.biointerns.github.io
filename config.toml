@@ -23,7 +23,7 @@ paginate = 48
   fbPageUrl = ""
   fbPageTitle = ""
 
-  analytics = ""
+  googleAnalytics = "UA-152627751-1"
   disqus = ""
 
   description = "Benvenuto su BioInterns! Sei uno studente di triennale o magistrale di Biologia/Biotecnologie/Bioinformatica o affini? Studi Fisica/Matematica/Informatica ma hai il pallino per la Biologia? Scorri tra le pagine per conoscere opportunità di tirocini pagati all'estero nei migliori atenei del mondo."
