@@ -3,12 +3,13 @@ languageCode = "en-us"
 title = "BioInterns"
 theme = "cards"
 
+languages:
   en:
-	languageName: English
-	weight: 1
+	  languageName: English
+	  weight: 1
   it:
-	languageName: Italian
-	weight: 2
+	  languageName: Italian
+	  weight: 2
  
 
 # quanti vuoi vederne per ogni pagina
