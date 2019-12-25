@@ -3,18 +3,18 @@ layout: post
 title: CNIO Summer Training Program
 img: cnio200.jpg
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP ALLO SPANISH NATIONAL CANCER RESEARCH**
+**SPANISH NATIONAL CANCER INSTITUTE SUMMER TRAINING PROGRAMM**
 
-**Dove**: Madrid, Spagna
+**Where**: Madrid, Spain
 
-**Date**: non ancora disponibili
+**When**: TBA
 
-**Scadenza per application**: non ancora disponibile 
+**Application Deadline**: TBA
 
-**Stipendio**: non ci sono ancora informazioni disponibili sul sito 
+**Benefits**: TBA 
 
-**Link al programma**: [CNIO Summer Training](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
+**Website***: [CNIO Summer Training](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
 

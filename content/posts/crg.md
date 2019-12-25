@@ -3,18 +3,18 @@ layout: post
 title: CRG Summer Internship Programme
 img: crg200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP AL CENTRE FOR GENOMIC REGULATION**
+**CENTRE FOR GENOMIC REGULATION SUMMER INTERNSHIP PROGRAMME**
 
-**Dove**: Barcellona, Spagna
+**Where**: Barcelona, Spain
 
-**Date**: non ancora disponibili
+**When**: TBA
 
-**Scadenza per application**: non ancora disponibile 
+**Application Deadline**: TBA
 
-**Stipendio**: spese di viaggio coperte + 400 euro per le spese personali (con cui bisogna anche pagarsi l'alloggio, perché non è fornito dal programma)
+**Benefits**: travel costs are covered + 400 EURO for accommodation and personal expenses 
 
-**Link al programma**: [CRG Summer Internship](https://www.crg.eu/en/content/training-undergraduates/crg-summer-internship-programme)
+**Website**: [CRG Summer Internship](https://www.crg.eu/en/content/training-undergraduates/crg-summer-internship-programme)
 

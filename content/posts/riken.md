@@ -3,18 +3,18 @@ layout: post
 title: IBRO/RIKEN Summer Program 
 img: riken200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP AL RIKEN CENTER FOR BRAIN SCIENCE**
+**RIKEN CENTER FOR BRAIN SCIENCE SUMMER PROGRAM**
 
-**Dove**: Tokyo, Giappone 
+**Where**: Tokyo, Japan
 
-**Date**: 18 giugno - 21 agosto 2020 
+**When**: 18/06 - 21/08/2020 
 
-**Scadenza per application**: non ancora disponibile  
+**Application Deadline**: 31/01/2020  
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte 
+**Benefits**: accommodation and travel costs are covered
 
-**Link al programma**: [RIKEN](https://cbs.riken.jp/en/summer/)
+**Website**: [RIKEN](https://cbs.riken.jp/en/summer/)
 

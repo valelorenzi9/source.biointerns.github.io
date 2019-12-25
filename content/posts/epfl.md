@@ -3,18 +3,18 @@ layout: post
 title: EPFL Summer Research Program
 img: epfl.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP AL POLITECNICO DI LOSANNA**
+**ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE SUMMER RESEARCH PROGRAM**
 
-**Dove**: Losanna, Svizzera
+**Where**: Lausanne, Switzerland
 
-**Date**: non ancora disponibili 
+**When**: 08/07 - 29/08/2020 
 
-**Scadenza per application**: 31 gennaio 2020
+**Application Deadline**: 31 gennaio 2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 1500 franchi per le spese personali
+**Benefits**: accommodation and travel costs are covered + 1500 CHF for personal expenses
 
-**Link al programma**: [EPFL Summer Research Program](https://www.epfl.ch/schools/sv/education/summer-research-program/)
+**Website**: [EPFL Summer Research Program](https://www.epfl.ch/schools/sv/education/summer-research-program/)
 

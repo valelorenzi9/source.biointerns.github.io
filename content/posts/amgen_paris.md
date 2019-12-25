@@ -3,17 +3,17 @@ layout: post
 title: Amgen Scholars Institut Pasteur
 img: pasteur200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP PRESSO INSTITUT PASTEUR (AMGEN SCHOLARS PROGRAMME)**
+**AMGEN SCHOLARS PROGRAM at INSTITUT PASTEUR**
 
-**Dove**: Parigi, Francia 
+**Where**: Paris, France
 
-**Date**: 1 luglio - 9 settembre 2020
+**When**: 01/07 - 09/09/2020
 
-**Scadenza per application**: 3 febbraio 2020
+**Application Deadline**: 03/02/2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 1400 euro per le spese personali
+**Benefits**: accommodation and travel costs are covered + 1400 EURO for personal expenses
 
-**Link al programma**: [Amgen Paris](https://www.pasteur.fr/en/education/programs-and-courses/internships-and-pre-doctoral-programs/amgen-scholars-program)
+**Website**: [Amgen Paris](https://www.pasteur.fr/en/education/programs-and-courses/internships-and-pre-doctoral-programs/amgen-scholars-program)

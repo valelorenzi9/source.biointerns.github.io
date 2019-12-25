@@ -3,18 +3,18 @@ layout: post
 title: Unil Summer Undergraduate Research Programme
 img: unil200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP ALLA UNIVERSITY OF LAUSANNE**
+**UNIVERSITY OF LAUSANNE SUMMER UNDERGRADUATE RESEARCH PROGRAMME**
 
-**Dove**: Losanna, Svizzera
+**Where**: Lausanne, Switzerland
 
-**Date**: 6 luglio - 28 agosto 2020
+**When**: 6/07 - 28/08/2020
 
-**Scadenza per application**: 23 gennaio 2020
+**Application Deadline**: 23/01/2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 1500 franchi per le spese personali 
+**Benefits**: accommodation and travel costs are covered + 1500 CHF for personal expenses
 
-**Link al programma**: [Unil Summer Undergraduate Programme](https://www.unil.ch/eb-sur/en/home.html)
+**Website**: [Unil Summer Undergraduate Programme](https://www.unil.ch/eb-sur/en/home.html)
 

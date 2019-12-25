@@ -3,18 +3,18 @@ layout: post
 title: International Biology Undergraduate Summer School Zurich
 img: utz.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP ALLA UNIVERSITY OF ZURICH**
+**INTERNATIONAL BIOLOGY UNDERGRADUATE SUMMER SCHOOL ZURICH (BUSS)**
 
-**Dove**: Zurigo, Svizzera
+**Where**: Zurich, Switzerland
 
-**Date**: 1 luglio - 31 agosto 2020
+**When**: 01/07 - 31/08/2020
 
-**Scadenza per application**: 1 marzo 2020
+**Application Deadline**: 01/03/2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte 
+**Benefits**: accommodation and travel expenses are covered
 
-**Link al programma**: [BUSS](https://www.biologie.uzh.ch/de/Studium/UndergraduateSummerSchool.html) 
+**Website**: [BUSS](https://www.biologie.uzh.ch/de/Studium/UndergraduateSummerSchool.html) 
 

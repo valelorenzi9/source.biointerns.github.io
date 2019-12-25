@@ -3,17 +3,17 @@ layout: post
 title: ISTernship Summer Program
 img: ist_logo200.jpg
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP ALLO INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA** 
+**SUMMER PROGRAM at the INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA** 
 
-**Dove**: Vienna, Austria
+**Where**: Vienna, Austria
 
-**Date**: da 8 a 12 settimane tra il 15 maggio e il 15 settembre 2020 
+**When**: from 8 to 12 weeks (to be defined with host laboratory) between 15/05/2020 and 15/09/2020 
 
-**Scadenza per application**: febbraio 2020 
+**Application Deadline**: 01/02/2020 
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + stipendio per spese personali (non specifica nel sito quanto)
+**Benefits**: accommodation and travel costs are covered + stipend for personal expenses (the website does not specify how much)
 
-**Link al programma**: [ISTernship](https://phd.pages.ist.ac.at/isternship/)
+**Website**: [ISTernship](https://phd.pages.ist.ac.at/isternship/)

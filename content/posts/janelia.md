@@ -3,18 +3,18 @@ layout: post
 title: Janelia Undergraduate Scholars Program
 img: janelia200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP AL HHMI/JANELIA RESEARCH CAMPUS**
+**JANELIA UNDERGRADUATE SCHOLARS PROGRAM**
 
-**Dove**: Virginia, Stati Uniti 
+**Where**: Virginia, United States
 
-**Date**: 10 settimane da maggio 2020 ad agosto 2020 
+**When**: 10 weeks (to be defined with host laboratory) between May and August, 2020 
 
-**Scadenza per application**: 7 gennaio 2020 
+**Application Deadline**: 07/01/2020 
 
-**Stipendio**: vitto e alloggio fornito e a carico del programma + spese di viaggio coperte + 5000 dollari per spese personali 
+**Benefits**: accommodation and travel costs are covered + 5000 DOLLARS for personal expenses 
 
-**Link al programma**: [Janelia](https://www.janelia.org/you-janelia/students-postdocs/undergraduate-scholars-program)
+**Website**: [Janelia](https://www.janelia.org/you-janelia/students-postdocs/undergraduate-scholars-program)
 

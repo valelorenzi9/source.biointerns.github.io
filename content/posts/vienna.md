@@ -3,19 +3,19 @@ layout: post
 title: Vienna BioCenter Summer School 
 img: vienna.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP PRESSO VIENNA BIOCENTER**
+**VIENNA BIOCENTER SUMMER SCHOOL**
 
-**Dove**: Vienna, Austria  
+**Where**: Vienna, Austria  
 
-**Date**: 26 giugno - 28 agosto 2020
+**When**: 26/06 - 28/08/2020
 
-**Scadenza per application**: 31 gennaio 2020
+**Application Deadline**: 31/01/2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 1400 euro per le spese personali
+**Benefits**: accommodation and travel costs are covered + 1400 EURO for personal expenses
 
-**Link al programma**: [Vienna BioCenter](https://training.vbc.ac.at/summer-school/programme-description/)
+**Website**: [Vienna BioCenter](https://training.vbc.ac.at/summer-school/programme-description/)
 
 

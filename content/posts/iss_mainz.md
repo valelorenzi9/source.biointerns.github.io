@@ -3,19 +3,19 @@ layout: post
 title: International Summer School in Mainz
 img: iss.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP PRESSO INSTITUTE OF MOLECULAR BIOLOGY in MAINZ (Gene Regulation, Epigenetics and Genome Stability)**
+**INTERNATIONAL SUMMER SCHOOL at the INSTITUTE OF MOLECULAR BIOLOGY in MAINZ (Gene Regulation, Epigenetics and Genome Stability)**
 
-**Dove**: Mainz, Germania 
+**Where**: Mainz, Germany 
 
-**Date**: 12 agosto - 20 settembre 2020
+**When**: 12/08 - 20/09/2020
 
-**Scadenza per application**: non ancora disponibile 
+**Application Deadline**: TBA
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte 
+**Benefits**: accommodation and travel costs are covered  
 
-**Link al programma**: [ISS Mainz](https://www.imb.de/students-postdocs/international-summer-school/)
+**Website**: [ISS Mainz](https://www.imb.de/students-postdocs/international-summer-school/)
 
 

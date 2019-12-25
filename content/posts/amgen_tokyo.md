@@ -3,17 +3,17 @@ layout: post
 title: Amgen Scholars University of Tokyo 
 img: tokyo200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP PRESSO UNIVERSITY OF TOKYO (AMGEN SCHOLARS PROGRAMME)**
+**AMGEN SCHOLARS PROGRAM at the UNIVERSITY OF TOKYO**
 
-**Dove**: Tokyo, Giappone  
+**Where**: Tokyo, Japan  
 
-**Date**: 8 giugno - 8 agosto 2020 
+**When**: 08/06 - 08/08/2020 
 
-**Scadenza per application**: 3 febbraio 2020
+**Application Deadline**: 03/02/2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 250,000 yen per le spese personali
+**Benefits**: accommodation and travel costs are convered + 250,000 YEN for personal expenses
 
-**Link al programma**: [Amgen Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)
+**Website**: [Amgen Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)

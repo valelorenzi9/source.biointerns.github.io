@@ -3,17 +3,17 @@ layout: post
 title: Amgen Scholars Kyoto University
 img: kyoto200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP PRESSO KYOTO UNIVERSITY (AMGEN SCHOLARS PROGRAMME)**
+**AMGEN SCHOLARS PROGRAMM at KYOTO UNIVERSITY**
 
-**Dove**: Kyoto, Giappone  
+**Where**: Kyoto, Japan  
 
-**Date**: 8 giugno - 8 agosto 2020 
+**When**: 08/06 - 08/08/2020 
 
-**Scadenza per application**: 3 febbraio 2020
+**Application Deadline**: 03/02/2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 180,000 yen per le spese personali
+**Benefits**: accommodation and travel costs are covered + 180,000 YEN for personal expenses
 
-**Link al programma**: [Amgen Kyoto](http://www.opir.kyoto-u.ac.jp/study/en/curriculum/amgenscholars/)
+**Website**: [Amgen Kyoto](http://www.opir.kyoto-u.ac.jp/study/en/curriculum/amgenscholars/)
