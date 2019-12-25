@@ -4,7 +4,7 @@ title: Unil Summer Undergraduate Research Programme
 img: unil200.png
 tags: ["tag_a", "tag_b"]
 date: 2019-12-25
-color: "white"
+
 ---
 
 **UNIVERSITY OF LAUSANNE SUMMER UNDERGRADUATE RESEARCH PROGRAMME**

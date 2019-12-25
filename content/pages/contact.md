@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contacts
-permalink: /contact/
+permalink: /contacts/
 ---
 
 Do you know <span style="color:blue">**other internship opportunities**</span> abroad which we could include in BioInterns? 
