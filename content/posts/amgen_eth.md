@@ -4,7 +4,6 @@ title: Amgen Scholars ETH Zurich
 img: eth_logo.png
 tags: ["tag_a", "tag_b"]
 date: 2019-12-25
-color: white
 ---
 
 **AMGEN SCHOLARS PROGRAM at ETH ZURICH**
