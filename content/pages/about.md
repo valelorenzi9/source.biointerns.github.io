@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! Here is a brief introduction to the project BioInterns.
 
-<span style="color:red">**Why BioInterns?**</span>
+<span style="color:red">Why BioInterns?</span>
 
  * <span style="color:red">**Aim**</span>: We want to inform university students of Biology/Biotechnology (but not only!) about the opportunities to do research during the Summer period in prestigious universities all over the world. All opportunities offered on BioInterns are **paid for**.
 

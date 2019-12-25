@@ -3,19 +3,19 @@ layout: post
 title: Amgen Scholars Karolinska Institutet
 img: karol_logo.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
+date: 2019-12-25
 ---
 
-**INTERNSHIP PRESSO KAROLINSKA INSTITUTET (AMGEN SCHOLARS PROGRAMME)**
+**AMGEN SCHOLARS PROGRAM at KAROLINSKA INSTITUTET**
 
-**Dove**: Stoccolma, Svezia 
+**Where**: Stockholm, Sweden 
 
-**Date**: 22 giugno - 14 agosto 2020
+**When**: 22/06 - 14/08/2020
 
-**Scadenza per application**: 3 febbraio 2020
+**Application Deadline**: 03/02/2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 10,000 SEK per le spese personali
+**Benefits**: accommodation and travel costs are covered + 10,000 SEK for personal expenses 
 
-**Link al programma**: [Amgen Karolinska](https://education.ki.se/amgen-scholars-program-at-karolinska-institutet)
+**Website**: [Amgen Karolinska](https://education.ki.se/amgen-scholars-program-at-karolinska-institutet)
 
 
