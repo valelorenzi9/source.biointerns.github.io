@@ -32,5 +32,7 @@ paginate = 48
   description = "Welcome to BioInterns! Are you an undergraduate or master's student in Biology/Biotechnology/Bioinformatics or similar? Do you study Physics/Mathematics/Informatics but have an interest in Biology? Scroll to find out about paid internship opportunities abroad at the best universities in the world."
 
 
-
+  [params.copyright]
+     name = "Valentina Lorenzi"
+     link = "https://github.com/valelorenzi9"
 

@@ -12,7 +12,7 @@ date: 2019-12-25
 
 **When**: 08/07 - 29/08/2020 
 
-**Application Deadline**: 31 gennaio 2020
+**Application Deadline**: 31/01/2020
 
 **Benefits**: accommodation and travel costs are covered + 1500 CHF for personal expenses
 
