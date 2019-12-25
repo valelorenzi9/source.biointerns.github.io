@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Contatti
+title: Contacts
 permalink: /contact/
 ---
 
-Conosci <span style="color:green">**altre opportunità**</span> di tirocini pagati all'estero che potrei includere in questo sito? 
+Do you know <span style="color:blue">**other internship opportunities**</span> abroad which we could include in BioInterns? 
 
-Hai una <span style="color:green">**domanda**</span> riguardo il funzionamento dei tirocini proposti su questo sito? 
+Do you have <span style="color:blue">**questions**</span> regarding what is advertised on this website?
 
-Vuoi darmi dei <span style="color:green">**consigli**</span> per migliorare il sito? 
+Would you like to give us <span style="color:blue">**advice**</span> to improve BioInterns? 
 
-Compila questo form e farò di tutto per risponderti al più presto! [Domande/Consigli](https://forms.gle/iinMkSd6mdeNb6no6)
+Fill in this form and we will do our best to get back to you as soon as possible! [Questions/Advice](https://forms.gle/iinMkSd6mdeNb6no6)
 

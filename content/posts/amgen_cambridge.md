@@ -3,19 +3,18 @@ layout: post
 title: Amgen Scholars University of Cambridge
 img: cambridge200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
 ---
 
-**INTERNSHIP PRESSO UNIVERSITY OF CAMBRIDGE (AMGEN SCHOLARS PROGRAMME)**
+**AMGEN SCHOLARS PROGRAMS at the UNIVERSITY OF CAMBRIDGE**
 
-**Dove**: Cambridge, Regno Unito 
+**Where**: Cambridge, United Kingdom 
 
-**Date**: 12 luglio - 9 settembre 2020
+**When**: 12/07 - 09/09/2020
 
-**Scadenza per application**: 3 febbraio 2020
+**Application Deadline**: 03/02/2020
 
-**Stipendio**: alloggio fornito e a carico del programma + spese di viaggio coperte + 1280 sterline per le spese personali
+**Benefits**: accommodation and travel costs are covered + 1280 pounds for personal expenses
 
-**Link al programma**: [Amgen Cambridge](https://amgenscholars.bio.cam.ac.uk)
+**Link to the program's website**: [Amgen Cambridge](https://amgenscholars.bio.cam.ac.uk)
 
 

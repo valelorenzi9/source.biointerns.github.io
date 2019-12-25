@@ -3,19 +3,18 @@ layout: post
 title: Amgen Scholars ETH Zurich
 img: eth_logo.png
 tags: ["tag_a", "tag_b"]
-date: 2019-10-28
 ---
 
-**INTERNSHIP PRESSO POLITECNICO DI ZURIGO (AMGEN SCHOLARS PROGRAMME)**
+**AMGEN SCHOLARS PROGRAM at ETH ZURICH**
 
-**Dove**: Zurigo, Svizzera 
+**Where**: Zurich, Switzerland 
 
-**Date**: 6 luglio - 9 settembre 2020
+**When**: 06/07 - 09/09/2020
 
-**Scadenza per application**: 3 febbraio 2020
+**Application Deadline**: 03/02/2020
 
-**Stipendio**: alloggio fornito dal programma + spese di viaggio coperte + 4000 franchi per le spese personali e l'alloggio 
+**Benefits**: travel costs are covered + 4000 CHF for accommodation and personal expenses  
 
-**Link al programma**: [Amgen ETH](https://ethz.ch/en/studies/non-degree-courses/summer-projects/amgen-scholars.html)
+**Website**: [Amgen ETH](https://ethz.ch/en/studies/non-degree-courses/summer-projects/amgen-scholars.html)
 
 
