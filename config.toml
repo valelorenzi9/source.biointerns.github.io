@@ -27,7 +27,7 @@ paginate = 48
   analytics = "UA-152627751-1"
   disqus = ""
 
-  description = "Welcome to **BioInterns**! Are you an **undergraduate** or **master's student** of Biology/Biotechnology/Bioinformatics or similar? Do you study Physics/Mathematics/Informatics but you have an interest in Biology? Scroll through the pages to find out about **paid internship opportunities abroad** at the best universities in the world."
+  description = "Welcome to BioInterns! Are you an undergraduate or master's student in Biology/Biotechnology/Bioinformatics or similar? Do you study Physics/Mathematics/Informatics but have an interest in Biology? Scroll to find out about paid internship opportunities abroad at the best universities in the world."
 
 
   [params.copyright]

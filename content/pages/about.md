@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Progetto BioInterns
+title: Biointerns Project 
 permalink: /about/
 ---
 
-Ciao! Ecco una breve introduzione al progetto BioInterns. 
+Hi! Here is a brief introduction to the project BioInterns.
 
-<span style="color:red">**Perché BioInterns?**</span>
+<span style="color:red">**Why BioInterns?**</span>
 
- * <span style="color:green">**Scopo**</span>: Consentire agli studenti universitari italiani di Biologia/Biotecnologie (ma non solo!) di conoscere le opportunità per fare ricerca durante il periodo estivo in prestigiose università in tutto il mondo. Tutte le opportunità proposte su BioInterns sono **pagate**. 
+ * <span style="color:red">**Aim**</span>: We want to inform university students of Biology/Biotechnology (but not only!) about the opportunities to do research during the Summer period in prestigious universities all over the world. All opportunities offered on BioInterns are **paid for**.
 
- * <span style="color:green">**Com'è nato**</span>: Molti studenti di Biologia/Biotecnologie non vedono l'ora di provare a fare ricerca con le loro mani. Tuttavia, i corsi di studi normalmente prevedono soltanto dei laboratori didattici sovraffollati in cui è difficile capire realmente cosa significhi fare il ricercatore. Esistono però numerose opportunità per fare ricerca all'estero durante i mesi estivi, di cui quasi nessuno studente italiano è a conoscenza. Si tratta di tirocini in cui ad ogni studente viene assegnato un progetto di ricerca nuovo e un supervisore che lo affianca per tutta la durata del progetto. Questo significa davvero provare il brivido di esplorare i confini della conoscenza scientifica e avere la sensazione di contribuire al progresso della scienza. Insomma, è una figata. Vi assicuro, per esperienza diretta, che si tratta di un'emozione indescrivibile. 
+ * <span style="color:red">**How it all started**</span>: Many students in Biology/Biotechnology can't wait to gain first hand research experience. Unfortunately, practical courses in a degree course usually involve overcrowded teaching laboratories where it is difficult to understand what doing scientific research actually entails. On BioInterns, we advertise internship opportunities that students can do over the Summer to gain hands-on experience and enhance their CV. These are internships in which each student is assigned an original research project and a supervisor who mentors him for the duration of the project. As a Summer research student, you are given the chance to contribute to scientific progress while experiencing another culture. 
 
- * <span style="color:green">**Chi c'è dietro**</span>: Sono Valentina, studentessa al secondo anno di magistrale in Biologia Computazionale presso l'Università di Trento, e con l'aiuto di Francesco, studente al primo anno di magistrale in Informatica (sempre a Trento), abbiamo ideato e messo in piedi BioInterns. 
+ * <span style="color:red">**The minds behind it**</span>: My name is Valentina and I am a master's student in Quantitative and Computational Biology at the University of Trento, Italy. Together with Francesco, a master's student in Computer Science (also in Trento), we came up with the project BioInterns. 
