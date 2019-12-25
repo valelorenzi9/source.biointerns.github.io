@@ -286,5 +286,14 @@ Would you like to give us adviceto improve BioInterns?
 Fill in this form and we will do our best to get back to you as soon as possible! Questions/Advice</description>
     </item>
     
+    <item>
+      <title>FAQs</title>
+      <link>https://biointerns.github.io/pages/faqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/pages/faqs/</guid>
+      <description>If this is your first time approaching the world of science internships abroad, you may have plenty of doubts and questions about how they work. Please contact us and tell us what kind of questions you would like us to answer in the Frequently Asked Questions section of BioInterns! We look forward to hearing from you.</description>
+    </item>
+    
   </channel>
 </rss>
