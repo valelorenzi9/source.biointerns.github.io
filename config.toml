@@ -3,6 +3,14 @@ languageCode = "en-us"
 title = "BioInterns"
 theme = "cards"
 
+  en:
+	languageName: English
+	weight: 1
+  it:
+	languageName: Italian
+	weight: 2
+ 
+
 # quanti vuoi vederne per ogni pagina
 # 6 vuol dire tipo 2 righe, con 3 cards per riga
 paginate = 48
@@ -14,7 +22,7 @@ paginate = 48
   #DISABILITATI
   #facebook = ""
   #quora = ""
-  #twitter = "http://twitter.com/bul_ikana"
+  twitter = "http://twitter.com/vlorenzi3"
   #github = "http://github.com/bul-ikana"
   #email = ""
 
@@ -26,7 +34,17 @@ paginate = 48
   analytics = "UA-152627751-1"
   disqus = ""
 
-  description = "Benvenuto su BioInterns! Sei uno studente di triennale o magistrale di Biologia/Biotecnologie/Bioinformatica o affini? Studi Fisica/Matematica/Informatica ma hai il pallino per la Biologia? Scorri tra le pagine per conoscere opportunità di tirocini pagati all'estero nei migliori atenei del mondo."
+  description = "Welcome to BioInterns! Are you an undergraduate or master student of Biology/Biotechnology/Bioinformatics or similar? Do you study Physics/Mathematics/Informatics but you have an interest in Biology? Scroll through the pages to find out about paid internship opportunities abroad at the best universities in the world."
+
+  languages:
+  en:
+	languageName: English
+	weight: 1
+  it:
+	languageName: Italian
+	weight: 2
+	description: "Benvenuto su BioInterns! Sei uno studente di triennale o magistrale di Biologia/Biotecnologie/Bioinformatica o affini? Studi Fisica/Matematica/Informatica ma hai il pallino per la Biologia? Scorri tra le pagine per conoscere opportunità di tirocini pagati all'estero nei migliori atenei del mondo."
+
 
   [params.copyright]
      name = "Valentina Lorenzi"
