@@ -1,7 +1,7 @@
 ---
 layout: post
 title: nanoGUNE Summer Internship 
-img: nanogune200.png
+img: nanogune200.jpg
 tags: ["tag_a", "tag_b"]
 date: 2020-01-11
 ---

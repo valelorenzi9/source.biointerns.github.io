@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BSC International Summer HPC Internship Programme
-img: bsc200.png
+img: bsc200.jpg
 tags: ["tag_a", "tag_b"]
 date: 2020-01-11
 ---
