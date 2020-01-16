@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Biozentrum Research Summer  
-img: biozentrum200.png
+img: bio200.png
 tags: ["tag_a", "tag_b"]
 date: 2020-01-16
 ---
