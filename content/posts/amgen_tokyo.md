@@ -14,6 +14,6 @@ date: 2019-12-25
 
 **Application Deadline**: 03/02/2020
 
-**Benefits**: accommodation and travel costs are convered + 250,000 YEN for personal expenses
+**Benefits**: accommodation and travel costs are covered + 250,000 YEN for personal expenses
 
 **Website**: [Amgen Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)
