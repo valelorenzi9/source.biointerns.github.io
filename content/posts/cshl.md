@@ -1,20 +1,27 @@
 ---
 layout: post
-title: CHSL Undergraduate Research Program
+title: CHSL Undergraduate Research Program (2021)
 img: cshl200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-12-25
+date: 2020-11-21
 ---
 
 **COLD SPRING HARBOR LABORATORY UNDERGRADUATE RESEARCH PROGRAM**
 
 **Where**: New York, United States
 
-**When**: 10/06 - 08/08/2020 
+**When**: 07/06 - 07/08/2021 
 
-**Application Deadline**: 15/01/2020
+**Application Deadline**: 15/01/2021
 
-**Benefits**: accommodation and travel costs are covered + 5500 DOLLARS for personal expenses
+**Benefits**: accommodation & meals are covered + 5500 DOLLARS for personal expenses. Travel costs are not reimbursed.
+
+**Research areas**: 
+ * Molecular biology & cancer 
+ * Genetics & genomics 
+ * Neuroscience 
+ * Plant biology 
+ * Quantitative biology 
 
 **Website**: [Cold Spring Harbor Laboratory](https://www.cshl.edu/education/undergraduate-research-program/)
 
