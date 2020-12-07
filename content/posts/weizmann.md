@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Kupcinet-Getz International Summer School 
-img: weizmann.png
+img: weizmann.jpeg
 tags: ["tag_a", "tag_b"]
-date: 2020-12-07
+date: 2020-20-11
 ---
 
 **Kupcinet-Getz International Summer School at the Weizmann Institute of Science**
