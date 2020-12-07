@@ -1,20 +1,35 @@
 ---
 layout: post
-title: International Biology Undergraduate Summer School Zurich
+title: International Biology Undergraduate Summer School Zurich (2021)
 img: utz.png
 tags: ["tag_a", "tag_b"]
-date: 2019-12-25
+date: 2020-12-07
 ---
 
 **INTERNATIONAL BIOLOGY UNDERGRADUATE SUMMER SCHOOL ZURICH (BUSS)**
 
 **Where**: Zurich, Switzerland
 
-**When**: 01/07 - 31/08/2020
+**When**: 01/07 - 31/08/2021
 
-**Application Deadline**: 01/03/2020
+**Application Deadline**: 15/02/2021
 
 **Benefits**: accommodation and travel expenses are covered
+
+**Research areas:**
+
+ * Biochemistry
+ * Genetics 
+ * Molecular, cell, developmental, behavioral, organismal, and systems biology
+ * Ecology
+ * Microbiology
+ * Neuroscience
+ * Physiology
+ * Biology of cancer 
+ * Plant biology
+ * Systematics and evolution
+ * Structural biology 
+ * Bioinformatics.
 
 **Website**: [BUSS](https://www.biologie.uzh.ch/de/Studium/UndergraduateSummerSchool.html) 
 

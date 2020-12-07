@@ -3,7 +3,7 @@ layout: post
 title: Janelia Undergraduate Scholars Program (2021)
 img: janelia200.png
 tags: ["tag_a", "tag_b"]
-date: 2020-11-21
+date: 2020-12-07
 ---
 
 **JANELIA UNDERGRADUATE SCHOLARS PROGRAM**
@@ -12,7 +12,7 @@ date: 2020-11-21
 
 **When**: 10 weeks (to be defined with host laboratory) between May and August, 2021 
 
-**Application Deadline**: 07/01/2021 
+**Application Deadline**: 11/01/2021 
 
 **Benefits**: accommodation and travel costs are covered + 5000 DOLLARS for personal expenses 
 
