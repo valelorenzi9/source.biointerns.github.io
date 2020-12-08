@@ -8,7 +8,7 @@ date: 2020-11-21
 
 **EMBL Undergraduate Internships**
 
-**Where**: Vienna, Austria  
+**Where**: Any EMBL site: Heidelberg, Germany; Grenoble, France; Hinxton, United Kingdom; Monterotondo, Italy; Barcelona, Spain; Hamburg, Germany.   
 
 **When**: anytime, to be decided together with Group Leader 
 
