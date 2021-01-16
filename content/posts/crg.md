@@ -3,18 +3,25 @@ layout: post
 title: CRG Summer Internship Programme
 img: crg200.png
 tags: ["tag_a", "tag_b"]
-date: 2019-12-25
+date: 2021-01-16
 ---
 
 **CENTRE FOR GENOMIC REGULATION SUMMER INTERNSHIP PROGRAMME**
 
 **Where**: Barcelona, Spain
 
-**When**: TBA
+**When**: eight weeks between July and September 2021
 
-**Application Deadline**: TBA
+**Application Deadline**: 08/03/2021
 
 **Benefits**: travel costs are covered + 400 EURO for accommodation and personal expenses 
+
+**Research areas**:
+
+ * Bioinformatics & Genomics
+ * Cell & Developmental Biology 
+ * Gene regulation, Stem cells & Cancer 
+ * Systems Biology
 
 **Website**: [CRG Summer Internship](https://www.crg.eu/en/content/training-undergraduates/crg-summer-internship-programme)
 
