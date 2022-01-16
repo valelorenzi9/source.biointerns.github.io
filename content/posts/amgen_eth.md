@@ -10,9 +10,9 @@ date: 2019-12-25
 
 **Where**: Zurich, Switzerland 
 
-**When**: 06/07 - 09/09/2020
+**When**: 04/07 - 07/09/2022
 
-**Application Deadline**: 03/02/2020
+**Application Deadline**: 01/02/2020
 
 **Benefits**: travel costs are covered + 4000 CHF for accommodation and personal expenses  
 

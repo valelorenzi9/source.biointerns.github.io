@@ -10,9 +10,9 @@ date: 2020-01-16
 
 **Where**: Beijing, China  
 
-**When**: 15/06 - 08/08/2020 
+**When**: 27/06 - 19/08/2022 
 
-**Application Deadline**: 03/02/2020
+**Application Deadline**: 01/02/2020
 
 **Benefits**: accommodation and travel costs are covered + 15000 CNY for personal expenses
 
