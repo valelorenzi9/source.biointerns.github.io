@@ -3,7 +3,7 @@ layout: post
 title: CNIO Summer Training Program
 img: cnio200.jpg
 tags: ["tag_a", "tag_b"]
-date: 2019-12-25
+date: 2022-01-16
 ---
 
 **SPANISH NATIONAL CANCER INSTITUTE SUMMER TRAINING PROGRAMM**

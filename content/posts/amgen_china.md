@@ -3,7 +3,7 @@ layout: post
 title: Amgen Scholars Tsinghua University 
 img: china200.png
 tags: ["tag_a", "tag_b"]
-date: 2020-01-16
+date: 2022-01-16
 ---
 
 **AMGEN SCHOLARS PROGRAM at the TSINGHUA UNIVERSITY**
