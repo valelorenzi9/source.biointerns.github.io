@@ -12,7 +12,7 @@ date: 2020-01-16
 
 **When**: 27/06 - 19/08/2022 
 
-**Application Deadline**: 01/02/2020
+**Application Deadline**: 01/02/2022
 
 **Benefits**: accommodation and travel costs are covered + 15000 CNY for personal expenses
 

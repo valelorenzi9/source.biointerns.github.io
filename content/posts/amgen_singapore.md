@@ -10,9 +10,9 @@ date: 2020-01-16
 
 **Where**: Singapore  
 
-**When**: 04/06 - 08/08/2020 
+**When**: 06/06 - 06/08/2022 
 
-**Application Deadline**: 03/02/2020
+**Application Deadline**: 01/02/2022
 
 **Benefits**: accommodation, personal expenses and travel costs are covered 
 

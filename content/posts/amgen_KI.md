@@ -10,9 +10,9 @@ date: 2019-12-25
 
 **Where**: Stockholm, Sweden 
 
-**When**: 22/06 - 14/08/2020
+**When**: 20/06 - 12/08/2022
 
-**Application Deadline**: 03/02/2020
+**Application Deadline**: 01/02/2020
 
 **Benefits**: accommodation and travel costs are covered + 10,000 SEK for personal expenses 
 

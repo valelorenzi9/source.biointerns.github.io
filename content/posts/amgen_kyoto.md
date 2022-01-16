@@ -10,9 +10,9 @@ date: 2019-12-25
 
 **Where**: Kyoto, Japan  
 
-**When**: 08/06 - 08/08/2020 
+**When**: 07/06 - 06/08/2022 
 
-**Application Deadline**: 03/02/2020
+**Application Deadline**: 01/02/2022
 
 **Benefits**: accommodation and travel costs are covered + 180,000 YEN for personal expenses
 
