@@ -3,7 +3,7 @@ layout: post
 title: Unil Summer Undergraduate Research Programme (2021)
 img: unil200.png
 tags: ["tag_a", "tag_b"]
-date: 2021-01-16
+date: 2022-01-16
 
 ---
 
@@ -11,9 +11,9 @@ date: 2021-01-16
 
 **Where**: Lausanne, Switzerland
 
-**When**: 5/07 - 27/08/2021
+**When**: 4/07 - 26/08/2022
 
-**Application Deadline**: 31/01/2021
+**Application Deadline**: 31/01/2022
 
 **Benefits**: accommodation and travel costs are covered + 1500 CHF for personal expenses
 

@@ -3,16 +3,16 @@ layout: post
 title: ISTernship Summer Program (2021)
 img: ist_logo200.jpg
 tags: ["tag_a", "tag_b"]
-date: 2021-01-16
+date: 2022-01-16
 ---
 
 **SUMMER PROGRAM at the INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA** 
 
 **Where**: Vienna, Austria
 
-**When**: from 8 to 12 weeks (to be defined with host laboratory) between 15/05/2021 and 15/09/2021
+**When**: from 8 to 12 weeks (to be defined with host laboratory) between 15/05/2022 and 15/09/2022
 
-**Application Deadline**: 15/02/2021
+**Application Deadline**: 15/02/2022
 
 **Benefits**: accommodation and travel costs are covered + stipend for personal expenses (the website does not specify how much)
 

@@ -3,16 +3,16 @@ layout: post
 title: Stowers Summer Scholars (2021)
 img: stowers200.jpg
 tags: ["tag_a", "tag_b"]
-date: 2020-11-21
+date: 2022-01-16
 ---
 
 **STOWERS INSTITUTE SUMMER SCHOLARS**
 
 **Where**: Kansas City, United States 
 
-**When**: 07/06 - 30/07/2021
+**When**: 06/06 - 29/07/2022
 
-**Application Deadline**: 01/02/2021 
+**Application Deadline**: 04/02/2022 
 
 **Benefits**: accommodation and travel costs are covered + 4000 DOLLARS for personal expenses
 
