@@ -10,9 +10,9 @@ date: 2022-01-16
 
 **Where**: Kansas City, United States 
 
-**When**: 06/06 - 29/07/2022
+**When**: 02/06 - 25/07/2025
 
-**Application Deadline**: 04/02/2022 
+**Application Deadline**: 17/01/2025 
 
 **Benefits**: accommodation and travel costs are covered + 4000 DOLLARS for personal expenses
 
